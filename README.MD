@@ -1,6 +1,6 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mrryaboev_quadratic_equation_new&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mrryaboev_quadratic_equation_new)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mrryaboev_quadratic_equation_new&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mrryaboev_quadratic_equation_new) [![codecov](https://codecov.io/gh/mrryaboev/quadratic_equation_new/graph/badge.svg?token=X8JAINLRMC)](https://codecov.io/gh/mrryaboev/quadratic_equation_new) [![Coverage Status](https://coveralls.io/repos/github/mrryaboev/quadratic_equation_new/badge.svg?branch=main)](https://coveralls.io/github/mrryaboev/quadratic_equation_new?branch=main)
 
-[![Coverage Status](https://coveralls.io/repos/github/mrryaboev/quadratic_equation_new/badge.svg?branch=main)](https://coveralls.io/github/mrryaboev/quadratic_equation_new?branch=main)
+
 
 
 Необходимо учесть различные сценарии и граничные случаи.
