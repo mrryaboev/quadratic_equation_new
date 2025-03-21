@@ -36,6 +36,5 @@ jobs:
       with:
         token: ${{ secrets.CODECOV_TOKEN }} #  Required only for private repositories
 
-    - name: SonarCloud Scan
-      uses: SonarSource/sonarcloud-github-action@v2
+    
     
