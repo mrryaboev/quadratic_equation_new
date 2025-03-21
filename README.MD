@@ -1,3 +1,5 @@
+https://sonarcloud.io/api/project_badges/measure?project=mrryaboev_quadratic_equation_new&metric=alert_status
+
 Необходимо учесть различные сценарии и граничные случаи.
 
 Позитивные тесты:
