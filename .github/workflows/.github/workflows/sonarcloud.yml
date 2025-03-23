@@ -21,4 +21,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_ORGANIZATION: ${{ secrets.SONAR_ORGANIZATION }}
-          SONAR_PROJECTKEY: quadratic_equation # Замените на ключ вашего проекта
+          SONAR_PROJECTKEY: quadratic_equation_new
