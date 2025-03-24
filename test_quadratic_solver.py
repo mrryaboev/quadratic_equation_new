@@ -21,7 +21,7 @@ def test_no_solution():
 def test_near_zero():
     assert solve_quadratic_equation(0.00001, -0.00002, 0.00001) == (1.0, 1.0)
 
-# Пример негативного теста (если хотите проверять типы)
+# Пример негативного теста
 #def test_invalid_input_type():
 #    with pytest.raises(TypeError):
 #        solve_quadratic_equation("a", 2, 3)
